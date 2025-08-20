@@ -17,7 +17,7 @@ public class CameraBoundsColliders : MonoBehaviour
         Vector3 camPos = cam.transform.position;
 
         // Top collider pozisyon
-        topCollider.size = new Vector2(width, 1f); // kalýnlýk ayarý
+        topCollider.size = new Vector2(width, 1f); 
         topCollider.transform.localPosition = new Vector3(camPos.x, camPos.y + (height / 2f) + topCollider.size.y/2f, 0);
         topCollider.offset = Vector2.zero;
 
