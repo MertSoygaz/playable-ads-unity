@@ -1,0 +1,229 @@
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity.......
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using C:/Users/Mert Soygaz/Desktop/PlayableAds2D/Assets/Fonts/MozillaText-Bold.ttf file to generate an atlas for MozillaText-Bold[24386] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage1/tmp/fonts/MozillaText-Bold-24386/output_0.png (57kb)
+Found custom rules for texture Resources/unity_builtin_extra/Default-ParticleSystem
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Resources/unity_builtin_extra/Default-Particle","isOverride":true}
+Resources:
+{}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Authorized using stored user info.
+.NET Framework için MSBuild sürüm 17.14.18+a338add32
+
+Oluşturma başlatıldı: 20.08.2025 14:02:18.
+
+
+
+1 düğümünde "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" projesi (Rebuild hedef).
+CoreClean:
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" dosyası siliniyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" dosyası siliniyor.
+
+GenerateTargetFrameworkMonikerAttribute:
+Tüm çıkış dosyaları, giriş dosyalarına göre güncel durumda olduğundan "GenerateTargetFrameworkMonikerAttribute" hedefi atlanıyor.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_62 /highentropyva+ /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /reference:"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\AnimateHoop.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\ButtonScripts.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\CameraBoundsCollider.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Depth.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\DragThrow.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\HandAnimation.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\OrientationManager.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs" "C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\SpriteSheetAnimation.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Depth.cs(6,45): warning CS0649: 'Depth.board' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(13,40): warning CS0649: 'Score.scoreSFX' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(10,35): warning CS0649: 'Score.portraitScoreText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(8,42): warning CS0649: 'LevelUpManager.canvasGroup' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(11,35): warning CS0649: 'Score.landscapeScoreText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\OrientationManager.cs(6,41): warning CS0649: 'OrientationManager.landscapeUI' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(8,40): warning CS0649: 'BallSpawner.firstBallDragThrow' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(12,45): warning CS0649: 'Score.particleEffect' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(8,40): warning CS0169: 'Score.ballY' alanı hiçbir zaman kullanılmaz [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Depth.cs(7,45): warning CS0649: 'Depth.net' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(9,36): warning CS0649: 'BallSpawner.firstBallDepth' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\AnimateHoop.cs(7,40): warning CS0649: 'AnimateHoop.board' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(7,36): warning CS0649: 'LevelFailManager.score' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\AnimateHoop.cs(6,40): warning CS0649: 'AnimateHoop.net' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(6,41): warning CS0649: 'LevelFailManager.content' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(7,42): warning CS0649: 'BallSpawner.firstBallRb' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(7,36): warning CS0649: 'LevelUpManager.score' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\OrientationManager.cs(5,41): warning CS0649: 'OrientationManager.portraitUI' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(8,42): warning CS0649: 'LevelFailManager.canvasGroup' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(6,41): warning CS0649: 'LevelUpManager.content' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(9,41): warning CS0649: 'LevelFailManager.ball' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(6,41): warning CS0649: 'BallSpawner.firstBall' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml" konumuna kopyalanıyor.
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml" konumuna kopyalanıyor.
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml" konumuna kopyalanıyor.
+
+  "AlwaysCreate" belirtildiği için "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" oluşturuluyor.
+
+  "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" öğesine erişiliyor.
+
+CopyFilesToOutputDirectory:
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll" konumuna kopyalanıyor.
+
+  Scripts -> C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Dosya "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" konumundan "C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb" konumuna kopyalanıyor.
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" Projesini Oluşturma İşlemi Tamamlandı (Rebuild hedef).
+
+
+
+Oluşturma başarılı oldu.
+
+
+"C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild hedefi) (1) ->
+(CoreCompile hedefi) -> 
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Depth.cs(6,45): warning CS0649: 'Depth.board' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(13,40): warning CS0649: 'Score.scoreSFX' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(10,35): warning CS0649: 'Score.portraitScoreText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(8,42): warning CS0649: 'LevelUpManager.canvasGroup' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(11,35): warning CS0649: 'Score.landscapeScoreText' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\OrientationManager.cs(6,41): warning CS0649: 'OrientationManager.landscapeUI' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(8,40): warning CS0649: 'BallSpawner.firstBallDragThrow' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(12,45): warning CS0649: 'Score.particleEffect' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Score.cs(8,40): warning CS0169: 'Score.ballY' alanı hiçbir zaman kullanılmaz [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\Depth.cs(7,45): warning CS0649: 'Depth.net' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(9,36): warning CS0649: 'BallSpawner.firstBallDepth' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\AnimateHoop.cs(7,40): warning CS0649: 'AnimateHoop.board' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(7,36): warning CS0649: 'LevelFailManager.score' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\AnimateHoop.cs(6,40): warning CS0649: 'AnimateHoop.net' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(6,41): warning CS0649: 'LevelFailManager.content' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(7,42): warning CS0649: 'BallSpawner.firstBallRb' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(7,36): warning CS0649: 'LevelUpManager.score' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\OrientationManager.cs(5,41): warning CS0649: 'OrientationManager.portraitUI' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(8,42): warning CS0649: 'LevelFailManager.canvasGroup' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelUpManager.cs(6,41): warning CS0649: 'LevelUpManager.content' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\LevelFailManager.cs(9,41): warning CS0649: 'LevelFailManager.ball' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\Users\Mert Soygaz\Desktop\PlayableAds2D\LunaTemp\stage3\processed-scripts\Assets\Scripts\BallSpawner.cs(6,41): warning CS0649: 'BallSpawner.firstBall' alanı hiçbir zaman atanmaz ve her zaman varsayılan null değerine sahip olur [C:\Program Files (x86)\Playworks Plugin\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    22 Uyarı
+    0 Hata
+
+
+Geçen Süre 00:00:14.11
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully

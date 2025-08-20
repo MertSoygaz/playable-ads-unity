@@ -1,0 +1,40 @@
+{
+  "ignores": [],
+  "groups": [
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/AnimateHoop.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/BallSpawner.cs",
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/DragThrow.cs",
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/Depth.cs",
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/Score.cs",
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/LevelFailManager.cs",
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/LevelUpManager.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/ButtonScripts.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/CameraBoundsCollider.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/HandAnimation.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/Scripts/OrientationManager.cs"
+    ],
+    [
+      "C:/Users/Mert Soygaz/Desktop/PlayableAds2D/LunaTemp/stage3/processed-scripts/Assets/SpriteSheetAnimation.cs"
+    ],
+    [
+      "C:/Program Files (x86)/Playworks Plugin/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Program Files (x86)/Playworks Plugin/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Program Files (x86)/Playworks Plugin/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}

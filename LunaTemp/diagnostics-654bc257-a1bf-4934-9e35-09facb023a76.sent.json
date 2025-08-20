@@ -1,0 +1,18 @@
+{
+    "BuildID": "654bc257-a1bf-4934-9e35-09facb023a76",
+    "Command": "project:deploy",
+    "ProjectID": "6224f96624958864f8ba96a25518abe1",
+    "ProjectStateHash": "c9703fc21b5af017b11d82e22844d96732a048542b3b54779ae1a0364a3e5592",
+    "StageCompletedAt": 3,
+    "EarliestFatalError": 0,
+    "StartTime": 1755687724130,
+    "EndTime": 1755687756963,
+    "PlaygroundUserID": 26559,
+    "OperatingSystem": "win32",
+    "UnityPackageID": null,
+    "TargetPlatform": "playground",
+    "UnityVersion": "2022.3.62f1",
+    "LunaVersion": "6.3.0",
+    "LogCount": 0,
+    "Logs": []
+}
