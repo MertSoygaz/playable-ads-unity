@@ -9,6 +9,7 @@ public class AnimateHoop : MonoBehaviour
     private float timeToRight;
     private float timeRightToLeft;
     private float moveRange;
+    
 
     private Coroutine animateCo;
 

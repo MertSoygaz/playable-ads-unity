@@ -15,13 +15,13 @@ public class BallSpawner : MonoBehaviour
     Camera cam;
 
     int resetCount;
-    const int maxResets = 9;
-    const float returnDelay = 0.1f;
+    private const int MaxResets = 9;
+    private const float ReturnDelay = 0.1f;
 
     void Awake()
     {
-        if (GetComponent<Rigidbody2D>()) { enabled = false; return; }
-    }
+        if (GetComponent<Rigidbody2D>()) { enabled = false;}
+    }   
 
     void Start()
     {
@@ -48,9 +48,9 @@ public class BallSpawner : MonoBehaviour
             while (!IsOutOfView(currentBall.transform.position))
                 yield return null;
 
-            yield return new WaitForSeconds(returnDelay);
+            yield return new WaitForSeconds(ReturnDelay);
 
-            if (resetCount < maxResets)
+            if (resetCount < MaxResets)
             {
                 if (currentDragThrow)
                     currentDragThrow.ResetBall(new Vector3(0f, -3.58f, -3f));

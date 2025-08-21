@@ -208,7 +208,7 @@
       "url": "https://packages.unity.com"
     },
     "uk.lunalabs.luna": {
-      "version": "file:../../../../../Program Files (x86)/Playworks Plugin/scripts",
+      "version": "file:Playworks Plugin/scripts",
       "depth": 0,
       "source": "local",
       "dependencies": {}

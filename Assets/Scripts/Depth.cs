@@ -33,7 +33,7 @@ public class Depth : MonoBehaviour
     {
         float t0 = Mathf.InverseLerp(minY, maxY, transform.position.y);
         currentScale = Mathf.Lerp(maxScale, minScale, t0);
-        transform.localScale = new Vector3(currentScale, currentScale, 1f);
+        transform.localScale = new Vector3(currentScale, currentScale, 1f); 
         prevY = transform.position.y;
 
         ResetNetColliders();

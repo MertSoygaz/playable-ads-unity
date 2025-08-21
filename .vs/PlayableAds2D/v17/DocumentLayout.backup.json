@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\assets\\scripts\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|c:\\users\\mert soygaz\\desktop\\playableads2d\\assets\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|c:\\users\\mert soygaz\\desktop\\playableads2d\\assets\\spritesheetanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|solutionrelative:assets\\spritesheetanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|c:\\users\\mert soygaz\\desktop\\playableads2d\\assets\\scripts\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\assets\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205E6C41-B347-6A92-AE86-9BEAE7465960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LevelFailManager.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\LevelFailManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelFailManager.cs",
@@ -66,12 +70,11 @@
               "RelativeToolTip": "Assets\\Scripts\\LevelFailManager.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T09:00:28.212Z",
-              "IsPinned": true
+              "WhenOpened": "2025-08-18T09:00:28.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OrientationManager.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\OrientationManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OrientationManager.cs",
@@ -79,13 +82,24 @@
               "RelativeToolTip": "Assets\\Scripts\\OrientationManager.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T13:20:44.684Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-08-13T13:20:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteSheetAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\SpriteSheetAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\SpriteSheetAnimation.cs",
+              "ToolTip": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\SpriteSheetAnimation.cs",
+              "RelativeToolTip": "Assets\\SpriteSheetAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:57:47.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AnimateHoop.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\AnimateHoop.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnimateHoop.cs",
@@ -97,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LevelUpManager.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\LevelUpManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelUpManager.cs",
@@ -109,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HandAnimation.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\HandAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HandAnimation.cs",
@@ -122,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ButtonScripts.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\ButtonScripts.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonScripts.cs",
@@ -134,20 +148,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
               "ToolTip": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\Score.cs",
               "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T11:14:51.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BallSpawner.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\BallSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BallSpawner.cs",
@@ -155,12 +169,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BallSpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T11:30:53.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T11:30:53.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DragThrow.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\DragThrow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragThrow.cs",
@@ -172,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CameraBoundsCollider.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\CameraBoundsCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraBoundsCollider.cs",
@@ -184,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Depth.cs",
               "DocumentMoniker": "C:\\Users\\Mert Soygaz\\Desktop\\PlayableAds2D\\Assets\\Scripts\\Depth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Depth.cs",
